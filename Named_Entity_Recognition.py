@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#Part of my Conference Project of "Empowering voters with knowledge on politicians via web mining" presented at The 2013 Bicoastal Data Conference at Stanford University on Analyzing money's influence in politics on Feb 2nd, 2013
 # This program will report a list of corporations associated with a given politician based on-
 # 1) crawls Wikipedia for a given US politician.
 # 2) utilizes Named Entity Recognition in advanced NLP to report corporations mentioned in his/her wiki
